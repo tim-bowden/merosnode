@@ -1,0 +1,19 @@
+{
+  "name": "merosnod",
+  "version": "1.0.0",
+  "description": "My Test Node Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-bowden/merosnode.git"
+  },
+  "author": "Tim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tim-bowden/merosnode/issues"
+  },
+  "homepage": "https://github.com/tim-bowden/merosnode#readme"
+}
