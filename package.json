@@ -1,6 +1,6 @@
 {
   "name": "merosnod",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "My Test Node Server",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/tim-bowden/merosnode/issues"
   },
-  "homepage": "https://github.com/tim-bowden/merosnode#readme"
+  "homepage": "https://github.com/tim-bowden/merosnode#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
